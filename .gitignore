@@ -394,5 +394,11 @@ CMakeLists.txt.user*
 *.out
 *.app
 
-# Git version header
-src/gitversion.h
+# VS Code settings
+/.vscode
+
+# CMake build directory
+/build
+
+# appimage executables
+*.AppImage
